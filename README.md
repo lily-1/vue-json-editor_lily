@@ -1,7 +1,7 @@
 <!--
  * @Descripttion: 
 -->
-# vue-json-editable
+# vue-json-editor_lily
 
 > Visual JSON Editor built as an vue component. Provides a basic GUI
 

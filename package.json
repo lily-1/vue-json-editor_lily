@@ -36,7 +36,7 @@
     "not ie <= 8"
   ],
   "bugs": {
-    "url": "https://github.com/zhl5317/vue-json-editable/issues"
+    "url": "https://github.com/lily-1/vue-json-editor_lily/issues"
   },
   "dependencies": {
     "element-ui": "^2.15.3",
@@ -66,7 +66,7 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
   },
-  "homepage": "https://github.com/zhl5317/vue-json-editable.git",
+  "homepage": "https://github.com/lily-1/vue-json-editor_lily.git",
   "keywords": [
     "vue",
     "json"
